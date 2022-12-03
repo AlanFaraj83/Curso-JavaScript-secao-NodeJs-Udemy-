@@ -1,0 +1,15 @@
+{
+  "name": "15_criando_primeira_app_com_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alan Faraj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
